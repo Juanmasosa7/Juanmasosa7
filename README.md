@@ -1,4 +1,6 @@
+<div align="center">
 <img src="https://github.com/Juanmasosa7/Juanmasosa7/assets/116852281/39aa6949-c760-48e7-af5b-ee070a63cb64">
+</div>
 
 <div align="center">
 <h1 align="center">Hola, soy Juan Manuel 👋</h1>
