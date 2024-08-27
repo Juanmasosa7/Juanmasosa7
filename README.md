@@ -64,17 +64,17 @@
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
       <a href="">
-        <img alt="NodeJs Icon" src="https://camo.githubusercontent.com/0552cea297c38c494fb310bf6e5c91742274844f361310e17ec19b305848d007/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333393933333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"/>
+        <img alt="NodeJs Icon" src="https://img.shields.io/badge/NodeJS-white.svg?style=green&logo=node.js&logoColor=darkgreen"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
       <a href="">
-        <img alt="MySQL Icon" src="https://camo.githubusercontent.com/f1b64de0317b90349bfd9fdf5db66b7a4f89180b3e07eb55cf799256d00838ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"/>
+        <img alt="MySQL Icon" src="https://img.shields.io/badge/MySQL-lightblue.svg?style=green&logo=mysql&logoColor=white"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
       <a href="">
-        <img alt="Icone Git" src="https://camo.githubusercontent.com/7eb2e0fb83224057a3c815c0752479f89246a30ad9be7b660e30ad4581289495/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/>
+        <img alt="Icone Git" src="https://img.shields.io/badge/Git-white.svg?style=green&logo=git&logoColor=red"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
@@ -86,7 +86,7 @@
  <tr>
     <td style="border: 1px solid #ddd; padding: 6px;">
       <a href="">
-        <img alt="JavaScript Icon" src="https://camo.githubusercontent.com/f40094060aeb428f6c2b3e5bb27fb0f551d83c2620ac92039453daa60f3e7253/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"/>
+        <img alt="JavaScript Icon" src="https://img.shields.io/badge/JavaScript-black.svg?style=green&logo=javascript&logoColor=ligthyellow"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
@@ -113,7 +113,7 @@
   <tr>
     <td style="border: 1px solid #ddd; padding: 6px;">
       <a href="">
-        <img alt="React Icon" src="https://camo.githubusercontent.com/fa6e8e4f1e7a16ec08e357cc1069b43ca6740fbb3cab994c4f53dfc5ae5a804e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b"/>
+        <img alt="React Icon" src="https://img.shields.io/badge/React-darkblue.svg?style=green&logo=react&logoColor=ligthyellow"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
@@ -140,7 +140,7 @@
   <tr>
     <td style="border: 1px solid #ddd; padding: 6px;">
       <a href="">
-        <img alt="Sass Icon" src="https://camo.githubusercontent.com/3c9e44bc3a7fd6ea0b74ac0dd610c8e98e6dbf108135f3682276041b028f1a78/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536173732d4343363639393f7374796c653d666c6174266c6f676f3d73617373266c6f676f436f6c6f723d7768697465"/>
+        <img alt="Sass Icon" src="https://img.shields.io/badge/SASS-pink.svg?style=green&logo=sass&logoColor=ligthyellow"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
