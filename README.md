@@ -37,7 +37,7 @@
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
       <a href="">
-        <img alt="C Icon" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
+        <img alt="C Icon" src="https://img.shields.io/badge/C-darkblue.svg?style=flat&logo=c&logoColor=white"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
@@ -113,7 +113,7 @@
   <tr>
     <td style="border: 1px solid #ddd; padding: 6px;">
       <a href="">
-        <img alt="React Icon" src="https://img.shields.io/badge/React-darkblue.svg?style=green&logo=react&logoColor=ligthyellow"/>
+        <img alt="React Icon" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
@@ -145,7 +145,7 @@
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
       <a href="">
-        <img alt="Java Icon" src="https://img.shields.io/badge/Java-%231572B6.svg?style=flat&logo=java&logoColor=white"/>
+        <img alt="Java Icon" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
