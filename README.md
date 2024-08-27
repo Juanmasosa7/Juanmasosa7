@@ -113,7 +113,7 @@
   <tr>
     <td style="border: 1px solid #ddd; padding: 6px;">
       <a href="">
-        <img alt="React Icon" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+        <img alt="React Icon" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 6px;">
