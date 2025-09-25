@@ -9,7 +9,7 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"> Sobre mi
 
 - 🎓 Actualmente, soy estudiante de Ingenieria en Sistemas de Informacion en la Universidad Tecnológica Nacional. Además, estudio para ser un increible Desarrollador Fullstack.
-- 💻 Tengo ciertos conocimientos en lenguajes como C y C++.
+- 💻 Tengo ciertos conocimientos en lenguajes como C, C++ y Java
 - 📚 Estoy aprendiendo HTML, CSS, JavaScript.
 - 🌱 Soy una persona muy detallista y que aprende muy rápido.
 - 🤖 Me apasiona el avance de la tecnología.
